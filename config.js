@@ -12,15 +12,15 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "", // Put your session id here
+  SESSION_ID: "jRRg3QKL#LF2YLHeEZMQwyxw7umzZhK1IZ89MWyNKVXsUemghZBo", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
+  GEMINI_API_KEY: "AIzaSyAhGHQsY9IcErTPYpslma3QyTurIMAyELE", // Add Gemini API key here
+  REMOVE_BG_API_KEY:"jK37GFXNmvG34EZApkrfjzGk", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "94786909383", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94786909384"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "true",
   AUTO_STATUS_SEEN: "true",
